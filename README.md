@@ -1,11 +1,10 @@
 Hi! I'm Josh
-[![app]](https://github.com/josharrowsmith/skateparks-app)
 
 I've got lots of experience with React, React Native and have been diving deep into the JamStack and serverless architecture. I am currently working at a digital agency doing Wordpress and Shopify development with a little bit Gatsby on the side.
 
 If you'd like to get in touch with me, you can reach me at josh.arrowsmith12@gmail.com
 
-- 🔭 I’m currently working on a [app]!
+- 🔭 I’m currently working on a headlesss shopify store
 - 🌱 I’m currently learning GraphQL 🤣
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love chips

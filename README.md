@@ -2,7 +2,7 @@ Hi! I'm Josh
 
 I've got lots of experience with React, React Native and have been diving deep into the JamStack and serverless architecture. I am currently working at a digital agency doing Wordpress and Shopify development with a little bit Gatsby on the side.
 
-If you'd like to get in touch with me, you can reach me at josh.arrowsmith12@gmail.com
+If you'd like to get in touch with me, you can reach me at josh.arrowsmith12@gmail.com, im currently living in whistler, Canada so remote is a must ahah
 
 - 🔭 I’m currently working on a Headlesss Shopify Store
 - 🌱 I’m currently learning GraphQL 🤣

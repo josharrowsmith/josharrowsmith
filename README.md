@@ -5,6 +5,7 @@ I've got lots of experience with React, React Native and have been diving deep i
 If you'd like to get in touch with me, you can reach me at josh.arrowsmith12@gmail.com, im currently living in whistler, Canada so remote is a must ahah
 
 - 🔭 I’m currently working on a Headlesss Shopify Store
+- 🔭 I’m currently working on pick up game b ball app :)
 - 🌱 I’m currently learning GraphQL 🤣
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love chips

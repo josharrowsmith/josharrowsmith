@@ -1,6 +1,6 @@
 Hi! I'm Josh
 
-I've got lots of experience with React, React Native and have been diving deep into serverless architecture. Just waiting for chatgpt to take over :)
+I've got lots of experience with React, Shopify and have been diving deep into serverless architecture. Just waiting for chatgpt to take over :)
 
 If you'd like to get in touch with me, you can reach me at josh.arrowsmith12@gmail.com 
 
